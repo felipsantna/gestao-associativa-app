@@ -1,4 +1,6 @@
 {
-  "source_commit": "99d70583024c6c87e33bdf975008155657d234ba",
-  "deployed_at": "2026-09-22T04:11:23.024064+00:00"
+  "source_commit": "41aaf966e907c9fadaa0a48221b0100906694428",
+  "deployed_at": "2026-09-22T14:38:38.248156+00:00",
+  "supabase_project_ref": "hruuyivlmvhyilorvjpl",
+  "supabase_region": "sa-east-1"
 }
