@@ -1,0 +1,1 @@
+var e=`/gestao-associativa-app/`.replace(/\/$/,``);function t(t){let n=t.startsWith(`/`)?t:`/${t}`;return`${window.location.origin}${e}${n}`}export{t};
